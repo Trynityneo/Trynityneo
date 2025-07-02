@@ -10,7 +10,7 @@ I'm a dynamic cybersecurity professional with over **6 years of hands-on experie
 
 🔐 As an **Information Security Consultant & Architect** at Zilicon Technologies Pvt. Ltd., I design advanced security architectures, lead IoT security initiatives, and integrate AI into security frameworks.  
 
-🎓 As a **core contributor to RigLabs Collective**, I bridge academia and industry by empowering future professionals through workshops, bootcamps, and national skill-building campaigns.  
+🎓 As a **core contributor to Riglabs Collective**, I bridge academia and industry by empowering future professionals through workshops, bootcamps, and national skill-building campaigns.  
 
 👨‍🏫 **Mentor & Educator** — I've trained **13,900+ students and 300+ educators**, conducted **490+ workshops and FDPs**, and collaborated with premier organizations like ISRO, Indian Navy, Tamil Nadu Police, and Kerala Police Cyber Dome.
 
