@@ -60,7 +60,7 @@ I'm a dynamic cybersecurity professional with over **6 years of hands-on experie
 
 ## 🌍 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vishnuvijayanvs/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vishnu-vijayan-vs)
 - 🗂️ [Portfolio & Articles](https://vishnu-the-cyber-mentor.vercel.app) <!-- replace with your actual portfolio URL -->
 - 📧 [Email](mailto:vishnuxrobot@gmail.com) <!-- replace with your actual email -->
 
