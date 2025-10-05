@@ -1,70 +1,106 @@
-# 👋 Hi there! I'm Vishnu Vijayan VS
+# 👨‍💻 Vishnu Vijayan VS  
+**Cybersecurity Architect | Mentor | Academic–Industry Consultant | AI Researcher**
 
-🌟 **Cybersecurity Architect | Red Team Specialist | Academic–Industry Consultant | Mentor**
-
----
-
-## 🚀 About Me
-
-I'm a dynamic cybersecurity professional with over **6 years of hands-on experience** in information security, red teaming, and educational outreach.  
-
-🔐 As an **Information Security Consultant & Architect** at Zilicon Technologies Pvt. Ltd., I design advanced security architectures, lead IoT security initiatives, and integrate AI into security frameworks.  
-
-🎓 As a **core contributor to Riglabs Collective**, I bridge academia and industry by empowering future professionals through workshops, bootcamps, and national skill-building campaigns.  
-
-👨‍🏫 **Mentor & Educator** — I've trained **13,900+ students and 300+ educators**, conducted **490+ workshops and FDPs**, and collaborated with premier organizations like ISRO, Indian Navy, Tamil Nadu Police, and Kerala Police Cyber Dome.
+🚀 Empowering 13,900+ Learners | 490+ Cyber Events | National Trainer for ISRO, Indian Navy & Kerala Police Cyber Dome  
 
 ---
 
-## 🛡️ What I Do
+## ⚡ About Me
 
-- **Red Teaming & Penetration Testing** (Web, API, IoT, Mobile)
-- **IoT & AI Security Integration**
-- **DevSecOps & CI/CD Auditing**
-- **Security Governance & Risk Management** (ISO 27001, GDPR, DPDP)
-- **Academic Curriculum Design & Faculty Training**
-- **National Cybersecurity Trainings** (Police, Military, Research Institutes)
+I'm a **Cybersecurity Architect and Academic–Industry Consultant** passionate about bridging the gap between **academia and industry** through **AI-powered learning ecosystems** and **real-world cyber simulations**.  
 
----
+I specialize in **offensive security, AI-integrated cybersecurity programs, and academic innovation** — designing next-gen skill development models that empower learners to think, build, and defend like professionals.  
 
-## 💡 Core Values
-
-- Empowering the next generation of cybersecurity leaders
-- Building secure, scalable, and resilient systems
-- Fostering collaboration between academia and industry
-- Promoting hands-on, practical learning
+🎯 **Mission:** Democratize cybersecurity knowledge & build the next generation of ethical hackers and security leaders.
 
 ---
 
-## 🎤 Featured Contributions
+## 🧠 Core Expertise
 
-- Spearheaded **490+ academic events**, boosting industry-aligned skills nationwide
-- Conducted AI-integrated cybersecurity workshops for top institutions
-- Led cyber forensics training programs for law enforcement agencies
-- Designed end-to-end IoT security frameworks, from firmware to cloud
-
----
-
-## 🛠️ Technical Toolkit
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+- 🔴 **Red Teaming & Penetration Testing:** Web, API, IoT, Mobile  
+- 🧩 **DevSecOps & CI/CD Auditing:** Secure pipelines, code & container audits  
+- 🛡️ **Security Governance & Compliance:** ISO 27001, GDPR, DPDP  
+- 🤖 **AI & IoT Security:** ML model attack surfaces, device hardening frameworks  
+- 🎓 **Academic Consulting:** Faculty upskilling, cyber curriculum design  
+- 🧭 **National Cyber Training:** For ISRO, Indian Navy, Kerala Police, TN Police  
 
 ---
 
-## 🌍 Connect with Me
+## 💼 Current Roles
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vishnu-vijayan-vs)
-- 🗂️ [Portfolio & Articles](https://vishnu-the-cyber-mentor.vercel.app) <!-- replace with your actual portfolio URL -->
-- 📧 [Email](mailto:vishnuxrobot@gmail.com) <!-- replace with your actual email -->
+- **Academic–Industry Consultant** @ [Able Folks Education MNC](https://ablefolks.com)  
+  Building **AI-integrated cybersecurity programs** & **project-based learning ecosystems**.  
+
+- **Information Security Architect** @ **Zilicon Technologies Pvt. Ltd.**  
+  Leading **IoT Security**, **DevSecOps Audits**, and **Breach Simulation Projects**.  
+
+- **Founder, DevxCorp**  
+  Creating **automated learning tools**, **cyber labs**, and **AI-driven mentoring platforms**.  
 
 ---
 
-## ✨ "Securing systems is a mission. Empowering minds is my passion." ✨
+## 🧩 Featured Projects
 
+| 🔒 Project | Description | Tech Stack |
+|-------------|-------------|-------------|
+| **AIgnite: Future Skills Bootcamp** | Multi-phase AI–Cybersecurity skill accelerator for students & entrepreneurs. | GenAI, Python, Streamlit, Firebase |
+| **Practical SOC/SIEM Program (60 Hours)** | Hands-on Splunk-based SOC Analyst training with TryHackMe Labs. | Splunk, ELK, Linux, Python |
+| **HackWithVishnu.com** | Personal branding portfolio built with Next.js & TailwindCSS showcasing cybersecurity expertise. | React, Next.js, TailwindCSS |
+| **eJPT Zero-to-Pro Mentoring Program** | 30-hour red teaming training pathway aligned to eLearnSecurity JPT. | TryHackMe, Burp Suite, Nmap, Python |
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hackwithvishnu&show_icons=true&theme=radical" alt="Vishnu's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hackwithvishnu&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackwithvishnu&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
+## 🏆 Highlights
+
+- 🧑‍🏫 Trained **13,900+ students** & **300+ educators** through 490+ cyber events across India.  
+- 🪖 National trainer for **ISRO**, **Indian Navy**, **Kerala Police Cyber Dome**, and **Tamil Nadu Police**.  
+- ⚙️ Designed **AI-integrated cybersecurity programs** deployed in leading universities.  
+- 🎮 Architected **gamified learning ecosystems** with real-world simulations and progression-based tasks.  
+
+---
+
+## 🧑‍💼 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hackwithvishnu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://hackwithvishnu.com/"><img src="https://img.shields.io/badge/Portfolio-000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="mailto:vishnuvijayanvs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/hackwithvishnu"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.instagram.com/hackwithvishnu/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+## 💬 Quote I Live By
+
+> “Hack to learn, not to harm.  
+> Learn to secure, not to show off.”
+
+---
+
+## 🧩 Let's Build the Future
+
+💡 Collaborating on:  
+- AI x Cybersecurity Tools  
+- Gamified Learning Platforms  
+- Cyber Bootcamps & Academic Alliances  
+
+📬 Reach out if you're building the next **AI-powered Cyber Education Revolution**.  
+
+---
+
+⭐ **_If my work inspires you, give this repo a star!_**  
+🎯 Together, let's secure the digital future.
